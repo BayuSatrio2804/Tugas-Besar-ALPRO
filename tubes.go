@@ -4,7 +4,7 @@
 package main
 
 import (
-	"bufio" //untuk scan semua text jika ada spasi nya
+	"bufio" //untuk melakukan scan semua text jika ada spasi nya
 	"fmt"
 	"os"      //diperlukan untuk library bufio
 	"strings" //untuk check tolower strings dengan EqualFold
